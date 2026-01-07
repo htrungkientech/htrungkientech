@@ -5,14 +5,14 @@ If my clients have a new ideas, I will help them to solve this idea
 
 ## Skills 😄
 My main tech is  
-- Languages: TypeScript, Javascript, C#  
-- Frameworks: ReactJS, VueJS, .NET Core  
-- Tools: Git, GitHub, VS Code, VS Studio, Postman  
+Languages: TypeScript, Javascript, C#  
+Frameworks: ReactJS, VueJS, .NET Core  
+Tools: Git, GitHub, VS Code, VS Studio, Postman  
 
 ## About Me 🤔
-- 💻 Full-stack developer with a love for clean code and creative solutions  
-- 🚀 Always exploring new frameworks, libraries, and best practices  
-- 🎨 Anime lover and tech enthusiast 😎  
+💻 Full-stack developer with a love for clean code and creative solutions  
+🚀 Always exploring new frameworks, libraries, and best practices  
+🎨 Anime lover and tech enthusiast 😎  
 
 ## Fun fact ⚡
 - I have a cat which have a while soft fur
