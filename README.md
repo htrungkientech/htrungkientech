@@ -7,8 +7,12 @@ If my clients have a new ideas, I will help them to solve this idea
 My main tech is  
 Languages: TypeScript, Javascript, C#  
 Frameworks: ReactJS, VueJS, .NET Core  
-Tools: Git, GitHub, VS Code, VS Studio, Postman
+Tools: Git, GitHub, VS Code, VS Studio, Postman  
 
+## About Me
+- 💻 Full-stack developer with a love for clean code and creative solutions  
+- 🚀 Always exploring new frameworks, libraries, and best practices  
+- 🎨 Anime lover and tech enthusiast 😎  
 
 <!--
 **htrungkientech/htrungkientech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
