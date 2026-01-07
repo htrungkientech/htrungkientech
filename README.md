@@ -1,13 +1,14 @@
 ## Hi there 👋
-I'm Kiên, a software developer from Viet Nam
-I can build services related to websites or applications
+I'm Kiên, a software developer from Viet Nam  
+I can build services related to websites or applications  
 If my clients have a new ideas, I will help them to solve this idea
 
 ## Skills
-My main tech is
-Languages: TypeScript, Javascript, C# 
-Frameworks: ReactJS, VueJS, .NET Core 
+My main tech is  
+Languages: TypeScript, Javascript, C#  
+Frameworks: ReactJS, VueJS, .NET Core  
 Tools: Git, GitHub, VS Code, VS Studio, Postman
+
 
 <!--
 **htrungkientech/htrungkientech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
