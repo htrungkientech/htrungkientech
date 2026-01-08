@@ -6,7 +6,7 @@ If my clients have a new ideas, I will help them to solve this idea
 ## Skills 😄
 My main tech is  
 Languages: TypeScript, Javascript, C#  
-Frameworks: ReactJS, VueJS, .NET Core  
+Frameworks: ReactJS, VueJS, .NET Core, MVC, Winform, Blazor server  
 Tools: Git, GitHub, VS Code, VS Studio, Postman  
 
 ## About Me 🤔
